@@ -1,4 +1,4 @@
-![ewo's GitHub stats](https://github-readme-stats.vercel.app/api?username=e-w-o&show_icons=true&theme=gruvbox)
+![ewo's GitHub stats](https://github-readme-stats.vercel.app/api?username=e-w-o&show_icons=true&theme=algolia)
 
 
 
